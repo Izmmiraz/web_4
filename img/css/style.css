@@ -1,0 +1,610 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.container{
+	width: 1140px;
+	margin: 0 auto;
+}
+section{
+	width: 100%;
+	float: left;
+	background-color: purple;
+}
+.header-logo{
+	width: 40%;
+	float: left;
+	padding: 15px 0px;
+
+}
+.menu{
+	width: 60%;
+	float: left;
+
+}
+.menu ul{
+	list-style: none;
+
+}
+.menu ul li{
+	display: inline-block;
+	padding: 20px 0px;
+	margin: 0px auto;
+
+}
+.menu ul li a{
+	margin: 30px;
+    font-size: 20px;
+    color: white;
+    text-decoration: none;
+}
+.info{
+	width: 100%;
+	float: left;
+
+}
+.info h2{
+	margin: 50px;
+	text-align: center;
+	color: white;
+
+}
+button{
+	display: block;
+	margin: 0px auto;
+	padding: 10px;
+	color: white;
+	background-color: orange;
+	box-shadow: 0px 3px;
+}
+.service{
+	width: 100%;
+	float: left;
+	background-color: lightgreen;
+}
+.text{
+	margin: 20px;
+
+}
+.text h2{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	margin: 20px;
+
+}
+span{
+	display: block;
+	border: 1px solid;
+	width: 50px;
+	margin: 0px auto;
+}
+.text h5{
+	display: block;
+	margin: 30px;
+	text-align: center;
+	font-size: 20px;
+}
+.image{
+	width: 100%;
+	float: left;
+}
+.img-one{
+	width: 25%;
+	float: left;
+
+}
+.img-one h2{
+	margin: 10px;
+
+}
+.img-one h5{
+	margin: 20px 0px;
+}
+.img-two{
+	width: 25%;
+	float: left;
+}
+.img-two h2{
+
+}
+.img-two h5{
+	margin: 20px 0px;
+
+}
+.img-three{
+	width: 25%;
+	float: left;
+}
+.img-three h2{
+
+}
+.img-three h5{
+	margin: 20px 0px;
+
+}
+.img-four{
+	width: 25%;
+	float: left;
+
+}
+.img-four h2{
+
+}
+.img-four h5{
+	margin: 20px 0px;
+
+}
+.team{
+	width: 100%;
+	float: left;
+	background-color: gray;
+}
+.team-member{
+	margin: 20px;
+}
+.information{
+
+}
+.information h2{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	margin: 20px;
+
+}
+ span{
+
+}
+.information h5{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	font-size: 15px;
+	margin: 20px;
+
+}
+.member{
+	width: 100%;
+	float: left;
+
+}
+.member-one{
+	width: 25%;
+	float: left;
+
+}
+.member-two{
+	width: 25%;
+	float: left;
+
+}
+.member-three{
+	width: 25%;
+	float: left;
+
+}
+.member-four{
+	width: 25%;
+	float: left;
+
+}
+.member-one img{
+	width: 220px;
+	margin: 0px 30px;
+
+}
+.member-one h2{
+	margin: 0px 30px;
+	margin: 20px;
+
+}
+.member-one h3{
+	margin: 0px 30px;
+	color: blue;
+
+}
+.member-one h4{
+	margin: 0px 30px;
+	margin: 20px;
+
+}
+.member-two img{
+	width: 220px;
+	margin: 0px 30px;
+	
+}
+.member-two h2{
+	margin: 0px 30px;
+	margin: 20px;
+
+}
+.member-two h3{
+	margin: 0px 30px;
+	color: blue;
+
+
+}
+.member-two h4{
+	margin: 0px 30px;
+	margin: 20px;
+	
+}
+.member-three img{
+	width: 220px;
+	margin: 0px 30px;
+}
+.member-three h2{
+	margin: 0px 30px;
+	margin: 20px;
+
+}
+.member-three h3{
+	margin: 0px 30px;
+	color: blue;	
+
+}
+.member-three h4{
+	margin: 0px 30px;
+	margin: 20px;
+	
+}
+.member-four img{
+	width: 220px;
+	margin: 0px 30px;
+
+
+}
+.member-four h2{
+	margin: 0px 30px;
+	margin: 20px;
+
+
+}
+.member-four h3{
+	margin: 0px 30px;
+	color: blue;
+
+}
+.member-four h4{
+	margin: 0px 30px;
+	margin: 20px;
+	
+}
+.icon-one{
+	color: aquamarine;
+
+
+}
+.icon-one ul{
+	list-style: none;
+
+}
+.icon-one ul li{
+	display: inline-block;
+
+}
+.icon-one ul li a{
+	margin: 20px;	
+
+}
+.icon-two{
+	color: aquamarine;
+
+}
+.icon-two ul{
+	list-style: none;
+
+}
+.icon-two ul li{
+	display: inline-block;
+
+}
+.icon-two ul li a{
+	margin: 20px;	
+	
+}
+.icon-three{
+	color: aquamarine;
+
+}
+.icon-one ul{
+	list-style: none;
+
+}
+.icon-three ul li{
+	display: inline-block;
+
+}
+.icon-three ul li a{
+	margin: 20px;	
+}
+.icon-four{
+	color: aquamarine;
+
+}
+.icon-four ul{
+	list-style: none;
+
+}
+.icon-four ul li{
+	display: inline-block;
+
+
+}
+.icon-four ul li a{
+	margin: 20px;	
+}
+.progress{
+	width: 100%;
+	float: left;
+	background-color: white;
+}
+.rating{
+	margin: 20px;
+}
+.skills-text{
+
+}
+.skills-text h2{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	margin: 20px;
+}
+span{
+
+}
+.skills-text h5{
+	margin: 0px auto;
+	display: block;
+	text-align: center;
+	margin: 20px;
+}
+.circle{
+	width: 100%;
+	float: left;
+
+}
+.circle-one{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+.circle-two{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+
+.circle-three{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+.circle-four{
+	width: 25%;
+	float: left;
+	text-align: center;
+
+}
+.circle h2{
+	margin: 20px;
+	text-align: center;
+}
+.portfolio{
+	width: 100%;
+	float: left;
+	background-color: blanchedalmond;
+}
+.port-text{
+	margin: 20px;
+
+}
+.port-text h2{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	margin: 20px;
+	
+}
+span{
+}
+.port-text h5{
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+	margin: 20px;
+}
+.port-text ul{
+	list-style: none;
+	display: block;
+	margin: 0px auto;
+	text-align: center;
+}
+.port-text ul li{
+	display: inline-block;
+	margin: 10px;
+	padding: 10px;
+	color: white;
+	background-color: gray;
+}
+.display-first{
+	width: 100%;
+	float: left;
+	margin: 20px;
+
+}
+.display-one{
+	width: 50%;
+	float: left;
+
+}
+.display-two{
+	width: 50%;
+	float: left;
+
+}
+.display-second{
+	width: 100%;
+	float: left;
+	margin: 20px;
+
+}
+.display-three{
+	width: 50%;
+	float: left;
+
+}
+.display-four{
+	width: 50%;
+	float: left;
+
+}
+.display-first h2{
+	margin: 20px;
+
+
+}
+.display-second h2{
+	margin: 20px;
+
+}
+.portfolio button{
+	background-color: paleturquoise;
+	border-style: none;
+	box-shadow:0px 3px;
+	padding: 10px;
+}
+.client{
+	width: 100%;
+	float: left;
+	background-color: pink;
+}
+.client-info{
+	margin: 20px;
+}
+.client-text{
+	text-align: center;
+}
+.client-text h2{
+	margin:20px ;
+}
+.client-text h5{
+	margin: 20px;
+	font-size: 15px;
+}
+.photo-first{
+	width: 100%;
+	float: left;
+	margin: 40px;
+	text-align: center;
+}
+.photo-one{
+	width: 50%;
+	float: left;
+
+}
+.photo-two{
+	width: 50%;
+	float: left;
+
+}
+.photo-second{
+	width: 100%;
+	float: left;
+	margin: 40px;
+	text-align: center;
+
+}
+.photo-three{
+	width: 50%;
+	float: left;
+
+}
+.photo-four{
+	width: 50%;
+	float: left;
+
+}
+.client h3{
+	color: yellow;
+}
+.client h2{
+	color: white;
+
+}
+.client h5{
+	margin: 20px;
+	color: white;
+
+}
+.personal{
+	width: 100%;
+	float: left;
+	background-color: lightcyan;
+
+}
+.personal-text{
+	margin: 20px;
+
+}
+.personal-text h2{
+	text-align: center;
+	margin: 20px;
+
+
+}
+span{
+
+}
+.personal-text h5{
+	text-align: center;
+	margin: 20px;
+
+}
+.box{
+	text-align: center;
+	margin: 20px;
+
+}
+.box-one{
+	margin: 10px;
+	color: gray;
+	background-color:lightgray ;
+
+}
+.box-two{
+	margin: 10px;
+	padding: 70px 50px;
+	color: gray;
+	background-color: lightgray;
+}
+.last{
+	width: 100%;
+	float: left;
+	background-color: lightblue;
+
+}
+.last-line{
+	margin: 30px;
+
+}
+.last-line ul{
+	list-style: none;
+	text-align: center;
+
+}
+.last-line ul li{
+	display: inline-block;
+
+}
+.last-line ul li a{
+	color: white;
+	text-decoration: none;
+	margin: 20px;
+
+}
